@@ -36,7 +36,7 @@ class Square extends Rectangle{
         super.setHeight(height);
     }
 }
-public class Liskov {
+public class LiskovSubstitutionPrinciple {
     static int Area(Rectangle r){
         return r.Height*r.Width;
     }

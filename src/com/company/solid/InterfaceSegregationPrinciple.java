@@ -60,7 +60,7 @@ class MidPrinter implements  IPrinter,IScanner{
 
     }
 }
-public class InterfaceSegregation {
+public class InterfaceSegregationPrinciple {
     public static void main(String[] args) {
         System.out.print("Hello World!");
     }
