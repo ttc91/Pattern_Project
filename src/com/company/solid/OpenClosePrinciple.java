@@ -2,8 +2,6 @@ package com.company.solid;
 
 import java.security.InvalidParameterException;
 
-
-
     class Calculator {
 
         private double num1;
